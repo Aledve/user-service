@@ -6,7 +6,7 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  ECS_CLUSTER: crm-cluster
+  ECS_CLUSTER: smart-parking-cluster
   ECS_SERVICE: user-service
   ECS_TASK_DEFINITION: user-task
   CONTAINER_NAME: user-service
